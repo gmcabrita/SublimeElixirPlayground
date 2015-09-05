@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+alt+c"],
+        "command": "share_selection_with_elixir_playground"
+    },
+    {
+        "keys": ["ctrl+alt+shift+c"],
+        "command": "share_file_with_elixir_playground"
+    }
+]

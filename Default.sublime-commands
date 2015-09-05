@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "SublimeElixirPlayground: Share selected text with Elixir Playground",
+        "command": "share_selection_with_elixir_playground"
+    },
+    {
+        "caption": "SublimeElixirPlayground: Share file with Elixir Playground",
+        "command": "share_file_with_elixir_playground"
+    }
+]

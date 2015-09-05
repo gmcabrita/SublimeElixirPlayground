@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Share selection with Elixir Playground",
+        "command": "share_selection_with_elixir_playground"
+    },
+    {
+        "caption": "Share current file with Elixir Playground",
+        "command": "share_file_with_elixir_playground"
+    }
+]

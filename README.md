@@ -6,7 +6,7 @@ A Sublime Text 2/3 plugin to share your Elixir code on the [Elixir Playground](h
 Usage
 -----
 
-You can use either shortcuts or commands from the command prompt, the latter with the prefix `SublimeElixirPlayground`.
+You can use either shortcuts or commands from the command prompt, the latter with the prefix `ElixirPlayground`.
 
 Shortcuts
 ---------

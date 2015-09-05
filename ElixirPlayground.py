@@ -14,8 +14,6 @@ PLAYGROUND_URL = "http://play.elixirbyexample.com/share"
 class ShareSelectionWithElixirPlaygroundCommand(sublime_plugin.TextCommand):
 
     def run(self, view):
-        self.settings = sublime.load_settings("SublimeElixirPlayground.sublime-settings")
-
         # Get user selected text
         for region in self.view.sel():
             text = self.view.substr(region)
@@ -34,8 +32,6 @@ class ShareSelectionWithElixirPlaygroundCommand(sublime_plugin.TextCommand):
 class ShareFileWithElixirPlaygroundCommand(sublime_plugin.TextCommand):
 
     def run(self, view):
-        self.settings = sublime.load_settings("SublimeElixirPlayground.sublime-settings")
-
         text = self.view.substr(sublime.Region(0, self.view.size()))
 
         args = {

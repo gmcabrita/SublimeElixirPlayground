@@ -1,5 +1,5 @@
-SublimeElixirPlayground
-=======================
+Sublime Elixir Playground
+=========================
 
 A Sublime Text 2/3 plugin to share your Elixir code on the [Elixir Playground](http://play.elixirbyexample.com/) from your favourite editor!
 

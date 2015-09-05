@@ -17,4 +17,4 @@ Shortcuts
 Installation
 ------------
 
-Install through [Package Control](https://packagecontrol.io) is preferred but you can simply clone this repository into your Sublime Text `Packages/` folder.
+Installing through [Package Control](https://packagecontrol.io) is preferred but you can simply clone this repository into your Sublime Text `Packages/` folder.
